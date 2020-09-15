@@ -1,0 +1,17 @@
+Software Used:
+Jupyter Notebook
+Python 3
+Libraries:
+pandas
+numpy
+sklearn
+lenskit.crossfold
+sklearn
+surprise
+collections
+matplotlib
+pathlib
+operator
+os
+requests
+json
